@@ -212,7 +212,7 @@ function makeBMSTable(info, mark, order) {
         ).appendTo(str);
       } else {
         $(
-          "<td>" + "<a href='" + i.url_diff + "'>" + "Download (Maker)" + "</a>" + "</td>"
+          "<td>" + "<a href='" + i.url_diff + "'>" + "DL" + "</a>" + "</td>"
         ).appendTo(str);
       }
     } else {
