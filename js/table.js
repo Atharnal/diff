@@ -83,7 +83,6 @@ function makeBMSTable(info, mark, order) {
       "<tr>" +
       "<th style='width: 6%'>Level</th>" +
       "<th style='width: 1%'>Movie</th>" +
-      "<th style='width: 1%'>Score</th>" +
       "<th style='width: 20%'>Title</th>" +
       "<th style='width: 20%'>Artist</th>" +
       "<th style='width: 5%'>Download (Maker)</th>" +
@@ -164,17 +163,6 @@ function makeBMSTable(info, mark, order) {
     } else {
       $("<td></td>").appendTo(str);
     }
-    // Score
-    $(
-      "<td>" +
-        "<a href='http://www.ribbit.xyz/bms/score/view?p=1&md5=" +
-        i.md5 +
-        "' target='_blank'>" +
-        "■" +
-        "</a>" +
-        "</td>"
-    ).appendTo(str);
-
     // Title
     $(
       "<td>" +
