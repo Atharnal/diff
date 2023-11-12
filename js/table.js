@@ -86,7 +86,7 @@ function makeBMSTable(info, mark, order) {
       "<th style='width: 1%'>Score</th>" +
       "<th style='width: 20%'>Title</th>" +
       "<th style='width: 20%'>Artist</th>" +
-      "<th style='width: 5%'>DL</th>" +
+      "<th style='width: 5%'>Download (Maker)</th>" +
       "<th style='width: 7%'>Date</th>" +
       "<th style='width: 25%'>Comment</th>" +
       "</tr>" +
@@ -224,7 +224,7 @@ function makeBMSTable(info, mark, order) {
         ).appendTo(str);
       } else {
         $(
-          "<td>" + "<a href='" + i.url_diff + "'>" + "DL" + "</a>" + "</td>"
+          "<td>" + "<a href='" + i.url_diff + "'>" + "Download (Maker)" + "</a>" + "</td>"
         ).appendTo(str);
       }
     } else {
