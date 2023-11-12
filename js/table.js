@@ -157,7 +157,7 @@ function makeBMSTable(info, mark, order) {
           "<a href='https://www.youtube.com/watch?v=" +
           i.movie_link.slice(-11) +
           "' target='_blank'>" +
-          "■" +
+          "♬" +
           "</a>" +
           "</td>"
       ).appendTo(str);
