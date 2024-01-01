@@ -28,7 +28,6 @@
   "editor_name": "BeMusicSeeker",
   "editor_version": "",
   "output_date": "2023-11-10"
-}
 
 
 "course": [
@@ -48,4 +47,5 @@
           "",
           ""
         ]
-      },
+      }
+}
