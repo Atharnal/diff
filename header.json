@@ -28,24 +28,4 @@
   "editor_name": "BeMusicSeeker",
   "editor_version": "",
   "output_date": "2023-11-10"
-
-
-"course": [
-    [
-      {
-        "name": "Mol?Lu",
-        "constraint": ["grade_?", "gauge_??"],
-        "trophy": [
-          { "name": "bronzemedal", "missrate": 0.0, "scorerate": 00.0 },
-          { "name": "silvermedal", "missrate": 0.0, "scorerate": 00.0 },
-          { "name": "goldmedal", "missrate": 0.0, "scorerate": 00.0 }
-        ],
-        "md5": [
-          "accc09aa92b94b0266319f9590bb18b0",
-          "",
-          "",
-          "",
-          ""
-        ]
-      }
 }
