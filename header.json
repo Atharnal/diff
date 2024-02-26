@@ -1,6 +1,6 @@
 {
   "name": "Atharnal BMS TABLE(AT)",
-  "symbol": "AT ",
+  "symbol": "at",
   "level_order": [
     "0",
     "1",
@@ -15,44 +15,16 @@
     "10",
     "11",
     "12",
-    "13",
-    "TEST"
+    "13"
   ],
-	
-  "course":[
-	[
-		{
-			"name":"AT TEST",
-			"constraint":["grade_mirror"],
-			"trophy":[
-				{
-					"name":"silvermedal",
-					"missrate":5.0,
-					"scorerate":70.0
-				},
-				{
-					"name":"goldmedal",
-					"missrate":2.5,
-					"scorerate":85.0
-				}
-			],
-			"md5":[
-				"de38bb5800e7dcc3175d78a71fbde715",
-				"4f997d377b327deb8130fbfacd6ce8e2",
-				"b386c0a946a30d55e4f5a8a126b49569",
-				"accc09aa92b94b0266319f9590bb18b0"
-				
-			]
-		},
-		
-		
   "folder_order": [ ],
   "folder_sort_key": "",
   "folder_sort_ascending": true,
   "entry_type": "",
   "data_url": "https://script.google.com/macros/s/AKfycbwvgrf53VAkbcLlZ9IQj5X9PnJ6Zl5IssHRllyFyghF30qJogASfnv-kX9He46OTA5gnQ/exec",
-  "compat_prefix": "AT ",
+  "compat_prefix": "at",
   "last_update": "2023-11-01",
   "editor_name": "BeMusicSeeker",
   "editor_version": "",
   "output_date": "2023-11-10"
+}
