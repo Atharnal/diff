@@ -1,7 +1,8 @@
 {
   "name": "Atharnal BMS TABLE(AT)",
+  "symbol": "AT",
   "data_url": "https://script.google.com/macros/s/AKfycbwvgrf53VAkbcLlZ9IQj5X9PnJ6Zl5IssHRllyFyghF30qJogASfnv-kX9He46OTA5gnQ/exec",
-  "symbol": "AT",  
+  "compat_prefix": "AT",
   "level_order": [
     "0",
     "1",
@@ -16,37 +17,8 @@
     "10",
     "11",
     "12",
-    "13",    
+    "13",
     "TEST"
   ],
-    "course": [
-        {
-            "name": "TEST",
-            "constraint": [
-                "grade_mirror"
-            ],
-            "trophy": [
-          {
-            "name": "silvermedal",
-            "missrate": 5,
-            "scorerate": 70
-          },
-          {
-            "name": "goldmedal",
-            "missrate": 2.5,
-            "scorerate": 85
-          }
-        ],
-            "md5": [
-                "b7287b7ed85e2c72c6b4a54019ea05f0",
-                "4f997d377b327deb8130fbfacd6ce8e2",
-                "b386c0a946a30d55e4f5a8a126b49569",
-                "accc09aa92b94b0266319f9590bb18b0"
-            ]
-        }
-      
-    ]
 
-
-  
 }
