@@ -34,7 +34,8 @@
                 "name": "TEST",
                 "constraint": [
                     "grade_mirror",
-                    "gauge_lr2"
+                    "gauge_lr2",
+                    "ln"
                 ],
                 "md5": [
                     "b7287b7ed85e2c72c6b4a54019ea05f0",
