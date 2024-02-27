@@ -28,30 +28,35 @@
         "13",
         "TEST"
     ],
-        "course": {
-        "name": "TEST",
+       "course": [
+    [
+      {
+        "name": "UE Level Test Lv.0",
         "constraint": [
-            "grade_mirror",
-            "Gauge_lr2"
+          "grade_mirror",
+          "gauge_lr2",
+          "ln"
         ],
         "trophy": [
-            {
-                "name": "silvermedal",
-                "missrate": 5,
-                "scorerate": 70
-            },
-            {
-                "name": "goldmedal",
-                "missrate": 2.5,
-                "scorerate": 85
-            }
+          {
+            "name": "silvermedal",
+            "missrate": 5,
+            "scorerate": 70
+          },
+          {
+            "name": "goldmedal",
+            "missrate": 2.5,
+            "scorerate": 85
+          }
         ],
         "md5": [
-            "b7287b7ed85e2c72c6b4a54019ea05f0",
-            "4f997d377b327deb8130fbfacd6ce8e2",
-            "b386c0a946a30d55e4f5a8a126b49569",
-            "accc09aa92b94b0266319f9590bb18b0"
+          "ee3f73734c049fdee8ffcc19e272c76f",
+          "0afdf88fa3a2107c0c9d9d6b3fb05132",
+          "11be9284a20aaa2cccde43a714461382",
+          "79e44f24bd0946e2c7294778364b1d66"
         ]
-    }
+      }
+  ]
+] 
     
 }
