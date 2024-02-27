@@ -30,6 +30,7 @@
     ],
     "course": 
         [
+            [
             {
                 "name": "TEST",
                 "constraint": [
@@ -55,6 +56,7 @@
                     "accc09aa92b94b0266319f9590bb18b0"
                 ]
             }
+        ]
         ]
     
 }
