@@ -31,7 +31,7 @@
     "course": [
         [
             {
-                "name": "発狂十段 級",
+                "name": "TEST用",
                 "constraint": [
                     "grade_mirror",
                     "gauge_lr2",
