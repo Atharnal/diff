@@ -31,7 +31,7 @@
     "course": [
         [
             {
-                "name": "TEST",
+                "name": "十段 Class",
                 "constraint": [
                     "grade_mirror",
                     "gauge_lr2",
