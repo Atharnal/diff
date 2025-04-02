@@ -31,19 +31,36 @@
     "course": [
         [
             {
-                "name": "TEST用",
+                "name": "AT8~AT9 Class",
                 "constraint": [
                     "grade_mirror",
                     "gauge_lr2",
                     "ln"
                 ],
                 "md5": [
-                    "c5c9910756bc75463c535be63653c938",
-                    "9e82862547712edfb0e3cd5e96871fe1",
-                    "6934b5d9179d151465af41c516aeeebb",
-                    "4f997d377b327deb8130fbfacd6ce8e2"
+                    "b7287b7ed85e2c72c6b4a54019ea05f0",
+                    "8dd9e1ed9ef7f492fded4a2a4f7c70d0",
+                    "b7637fecafdab01f4ce8b692eab0c19d",
+                    "4dd8ce4bb2f9d0d13bf25222c4acf27f"
+                ]
+            },
+                {
+                "name": "TEST用 2",
+                "constraint": [
+                    "grade_mirror",
+                    "gauge_lr2",
+                    "ln"
+                ],
+                "md5": [
+                    "",
+                    "",
+                    "",
+                    ""
                 ]
             }
+
+
+
         ]
     ]
 }
